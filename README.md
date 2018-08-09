@@ -1,4 +1,4 @@
 # Dycode Test
-Create screen Login and Register from mockup
+Building iOS application with [Swift](https://swift.org/documentation/)
 # using
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Prevent issues of the keyboard sliding up and cover UITextField/UITextView
