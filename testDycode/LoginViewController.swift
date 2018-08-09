@@ -8,8 +8,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class LoginViewController: UIViewController {
 
+    @IBAction func createAccountButton(_ sender: Any) {
+        let registerVC = self.storyboard?.instantiateViewController(withIdentifier: "Register")
+        self.present(registerVC!, animated: true, completion: nil)
+    }
+    //    @IBAction func createAccountButton(_ sender: Any) {
+//        self.performSegue(withIdentifier: "segueLoginRegister", sender: nil)
+//    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

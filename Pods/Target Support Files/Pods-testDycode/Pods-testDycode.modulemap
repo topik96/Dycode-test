@@ -1,0 +1,6 @@
+framework module Pods_testDycode {
+  umbrella header "Pods-testDycode-umbrella.h"
+
+  export *
+  module * { export * }
+}
