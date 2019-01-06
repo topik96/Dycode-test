@@ -69,7 +69,7 @@
                                 <rect key="frame" x="166" y="331" width="109" height="28"/>
                                 <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="13"/>
                                 <state key="normal" title="Forgot Password?">
-                                    <color key="titleColor" red="0.26918146009999999" green="0.53551506999999998" blue="0.1645894349" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleColor" red="1" green="0.57810515169999999" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                             </button>
                             <stackView opaque="NO" contentMode="scaleToFill" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="FrW-b8-dbZ">
